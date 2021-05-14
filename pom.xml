@@ -43,5 +43,7 @@
   <modules>
     <module>magoko-broker-bom</module>
     <module>magoko-broker-build-parent</module>
+    <module>magoko-broker-server-core</module>
+    <module>magoko-starter-broker-server</module>
   </modules>
 </project>

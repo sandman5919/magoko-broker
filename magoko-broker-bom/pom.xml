@@ -14,4 +14,18 @@
   <packaging>pom</packaging>
   <name>magoko-broker-bom</name>
   <description>MagOKO Broker :: BOM</description>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.deepinthink.magoko</groupId>
+        <artifactId>magoko-broker-server-core</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.deepinthink.magoko</groupId>
+        <artifactId>magoko-starter-broker-server</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 </project>
