@@ -1,4 +1,4 @@
-# MagOKO Broker
+# MagOKO Broker [![Build](https://github.com/deepinthink-magoko/magoko-broker/actions/workflows/maven.yml/badge.svg)](https://github.com/deepinthink-magoko/magoko-broker/actions/workflows/maven.yml)
 DEEPINTHINK MagOKO Broker server implementation.
 
 ## License
